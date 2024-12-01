@@ -21,7 +21,7 @@ http://178.219.128.68:64888/NICKJR
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-shift="3 minutes" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="Entertainment",Polsat (1080p)
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
-#EXTINF:-1 tvg-id="RTL HD" tvg-logo="https://w7.pngwing.com/pngs/534/266/png-transparent-germany-television-show-rtl-television-rtl-group-hamburg-miscellaneous-television-text.png" group-title="Entertainment",RTL HD
+#EXTINF:-1 tvg-id="RTL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png" group-title="Entertainment",RTL HD
 https://huhu.to/play/2728959195/index.m3u8
 
 
