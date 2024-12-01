@@ -1,2 +1,3 @@
-#EXTINF:-1 TVG-LOGO="https://seeklogo.com/images/D/disney-xd-logo-10ACD10306-seeklogo.com.png" TVG-ID="DisneyXD" GROUP-TITLE="Kids" ,Disney XD
+#EXTM3U
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://seeklogo.com/images/D/disney-xd-logo-10ACD10306-seeklogo.com.png" tvg-id="DisneyXD" GROUP-TITLE="Kids" ,Disney XD
 https://list.iptvcat.com/my_list/s/7c9cc650e778592800ca62b3e9957570.m3u8
