@@ -25,7 +25,7 @@ https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 https://huhu.to/play/2728959195/index.m3u8
 
 # Movies
-#EXTINF:-1 tvg-id="DieSchneeschwester" tvg-logo="https://image.tmdb.org/t/p/original/yuW5tXviKrCK1wf6esm0892CUYf.jpg" group-title="Movies", Die Schneeschwester
+#EXTINF:-1 group-title="Movies" tvg-id="DieSchneeschwester" tvg-logo="https://image.tmdb.org/t/p/original/yuW5tXviKrCK1wf6esm0892CUYf.jpg" group-title="Movies", Die Schneeschwester
 #KODIPROP:video_type=movie
 #KODIPROP:title=Die Schneeschwester
 #KODIPROP:genre=Family, Drama
