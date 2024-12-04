@@ -24,5 +24,5 @@ https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="RTL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png" group-title="Entertainment",RTL HD
 https://huhu.to/play/2728959195/index.m3u8
 
-#EXTINF:-1 tvg-name="Adult Swim - Rick and Morty" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Rick and Morty Marathon)
+#EXTINF:-1 tvg-id="Adult Swim - Rick and Morty" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png"  group-title="IPTV-US",Adult Swim (Rick and Morty Marathon)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
