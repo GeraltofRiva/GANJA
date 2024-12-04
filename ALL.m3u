@@ -17,7 +17,7 @@ http://178.219.128.68:64888/DISNXD
 #EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr. Poland (576i)
 http://178.219.128.68:64888/NICKJR
 
-#EXTINF:-1 tvg-id="Adult Swim - Rick and Morty" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png"  group-title="IPTV-US",Adult Swim (Rick and Morty Marathon)
+#EXTINF:-1 tvg-id="Adult Swim - Rick and Morty" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png"  group-title="Kids",Adult Swim (Rick and Morty Marathon)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
 # Entertainment Channels
