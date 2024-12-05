@@ -5,8 +5,11 @@
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 # Kids Channels
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel
 http://109.233.89.170/Disney_Channel/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel PL (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel (1080P)
+https://list.iptvcat.com/my_list/s/6e25a9cc1343bc36e1f44aa18a5ff1d1.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
 http://109.233.89.166/Disney_Junior/mono.m3u8
@@ -16,9 +19,6 @@ http://178.219.128.68:64888/DISNXD
 
 #EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr. Poland (576i)
 http://178.219.128.68:64888/NICKJR
-
-#EXTINF:-1 tvg-id="Adult Swim - Rick and Morty" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png"  group-title="Kids",Adult Swim (Rick and Morty Marathon)
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
 # Entertainment Channels
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-shift="3 minutes" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="Entertainment",Polsat (1080p)

@@ -8,10 +8,16 @@
   </channel>
 
   <!-- Kids Channels -->
-  <channel id="DisneyChannel.pl">
+  <channel id="DisneyChannel PL">
     <display-name lang="en">Disney Channel</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" />
     <url>http://109.233.89.170/Disney_Channel/mono.m3u8</url>
+  </channel>
+
+    <channel id="DisneyChannel PL (1080P)">
+    <display-name lang="en">Disney Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" />
+    <url>https://list.iptvcat.com/my_list/s/6e25a9cc1343bc36e1f44aa18a5ff1d1.m3u8</url>
   </channel>
 
   <channel id="DisneyJunior.pl">
@@ -30,12 +36,6 @@
     <display-name lang="en">Nick Jr. Poland</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" />
     <url>http://178.219.128.68:64888/NICKJR</url>
-  </channel>
-
-  <channel>
-    <display-name lang="en">Adult Swim - Rick and Morty</display-name>
-    <icon src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png"/>
-    <url>https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8</url>
   </channel>
 
   <!-- Entertainment Channels -->
