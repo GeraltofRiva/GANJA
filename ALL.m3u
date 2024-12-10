@@ -1,39 +1,39 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 
 # POLAND
-#EXTINF:-1 tvg-id="POLSAT" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="POLAND", POLSAT
+#EXTINF:-1 tvg-id="POLSAT" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="POLAND",POLSAT
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
-#EXTINF:-1 tvg-id="POLSAT HD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="POLAND", POLSAT HD
+#EXTINF:-1 tvg-id="POLSAT HD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="POLAND",POLSAT HD
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/jDmolIQohXy7ZfOMjMxwFK7mUeSYmQvqDjIPya7QBvWpzcsJxeQrGLpa9p4h9Q9HJ9mhqrSbl9ik4vzfaoXq_TcX6U_b6SNyIutuyic6NaroO5CV87LsicF7k2aLAykQLq9HtOsw7zqmnpdVZYgGvcK9aBwHxawMUSWUi6fD6AL2fma8bd2hoGeDHS-yfJ1r/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="TVN TURBO HD" tvg-logo="https://imgbin.com/png/F6w4JA8A/tvn-turbo-logo-scripps-networks-interactive-television-png" group-title="POLAND", TVN TURBO HD
+#EXTINF:-1 tvg-id="TVN TURBO HD" tvg-logo="https://imgbin.com/png/F6w4JA8A/tvn-turbo-logo-scripps-networks-interactive-television-png" group-title="POLAND",TVN TURBO HD
 https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/mW0qeXW5WkAQPA0Avz4MhHXopT3LV33cOv1DcQ83hLIDcemTKHuN4r6KLSeI2fW73UlrYN24QbpY-xGuThJX_ljIKHPVjEsxPHI5Fkj3_SEyyHKYx2_28ufTtR1Ljb_UHSKlK8jU316LZcqkhEVTtln113LjdFVjPpY2K6Yhj6352bl7cQNmbNP2q1oYb0-g/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="TVP 1 HD" tvg-logo="https://s.tvp.pl/images/images/a/8/9/uid_a89e60e8041e4e4bb367c0e091759d69_width_1200_play_0_pos_0_gs_0_height_630.png" group-title="POLAND", TVP 1 HD
+#EXTINF:-1 tvg-id="TVP 1 HD" tvg-logo="https://s.tvp.pl/images/images/a/8/9/uid_a89e60e8041e4e4bb367c0e091759d69_width_1200_play_0_pos_0_gs_0_height_630.png" group-title="POLAND",TVP 1 HD
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/t2jXEJwpDBmLDHKpXeSRJpAvu1XlIDfwrhGgQh3Ab2PGlmp2-W52u6NoFPA6j00ftziTHYMS_hdGLRpnJxezdvA95-biZPPG_2WFr7DhlNzGFXjREunptC2VH_zU8_1TXBMcZOpvchHwDuDzYgaQS8rvNIbHjGbYG0UYRnGequ8/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="CANAL SPORT 3 HD" tvg-logo="https://medias.lenodal.com/medias/photos/original/2015/cplussport3-jingle-2015.jpg" group-title="POLAND", CANAL SPORT 3 HD
+#EXTINF:-1 tvg-id="CANAL SPORT 3 HD" tvg-logo="https://medias.lenodal.com/medias/photos/original/2015/cplussport3-jingle-2015.jpg" group-title="POLAND",CANAL SPORT 3 HD
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/DN13SIcFF91x0pLYEKWgEK3Q6MJMaXgXGhwlpdz2YRdPEsEtRdZ_TpKhlH3J9V2hHBwu14aTgB50kJ6wNaq4kimMkyQxjMFuwa0PfZwBhoAc0kbqwy8sfI8HcLA3DFhSXsdsAorPO61wEeipjwziiLnu_AtPtnUt5eqomqGFFicop-AT0E-JOAYu0MOwvdTy/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="TVP 2 HD" tvg-logo="https://i.ytimg.com/vi/gUnBwaZHGMw/sddefault.jpg" group-title="POLAND", TVP 2 HD
+#EXTINF:-1 tvg-id="TVP 2 HD" tvg-logo="https://i.ytimg.com/vi/gUnBwaZHGMw/sddefault.jpg" group-title="POLAND",TVP 2 HD
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/RR5R46WBQyJTl7pjF85X-Kd11kNh5e1j19xDYuZg-jOfnnvuFyw0eBNEy9ewE_rbukf6feR_-MMaHnMBui01zhfeETtCKwrB-FiVTtPsdJaOiUCtlqUdXaH8lFrirnyhnBcHWnpCvpHmIJgyFT45exbSUpt72XlD4Y2ZKOIuATS3Ork1m_9g2MhaYkk8psnt/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="POLAND", DISNEYCHANNEL
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="POLAND",DISNEYCHANNEL
 http://109.233.89.170/Disney_Channel/mono.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="POLAND", DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="POLAND",DISNEY JUNIOR
 http://109.233.89.166/Disney_Junior/mono.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="POLAND", DISNEY XD
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="POLAND",DISNEY XD
 http://178.219.128.68:64888/DISNXD
 
-#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="POLAND", NICK JR
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="POLAND",NICK JR
 http://178.219.128.68:64888/NICKJR
 
 #EXTINF:-1 tvg-id="4FUN TV" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="POLAND", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 # GERMANY
-#EXTINF:-1 tvg-id="PRO 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png" group-title="GERMANY", PRO 7 HD
+#EXTINF:-1 tvg-id="PRO 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png" group-title="GERMANY",PRO 7 HD
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/rQ5T0yY_5AlCgARhkNT0Qkw8FpV-nEV6z8JbUlE5ZWC4X3BGIWISHAbl6PZVUE1JDn8m6UFaSdCoGOA2J_36eGGsHzTxFUDA3GaAZpiLRxUSn2qr388zr458uEz2sieJRuauskU5ARiFIjdO6QK9wonpVVvUwB4_l5hPS3JeQcKhugiJTndYyjPbsiehL8kp/hls/index.m3u8
