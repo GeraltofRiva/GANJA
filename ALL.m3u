@@ -1,24 +1,24 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 
 # POLAND
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-shift="3 minutes" tvg-logo="https://i.imgur.com/xff6zGN.png" tvg-country="POALND" group-title="Entertainment",Polsat (1080p)
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-shift="3 minutes" tvg-logo="https://i.imgur.com/xff6zGN.png" tvg-country="POALND",Polsat (1080p)
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
-#EXTINF:-1 tvg-id="DisneyChannel PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" tvg-country="POALND" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" tvg-country="POALND",Disney Channel
 http://109.233.89.170/Disney_Channel/mono.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" tvg-country="POALND" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" tvg-country="POALND",Disney Junior
 http://109.233.89.166/Disney_Junior/mono.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" tvg-country="POALND" group-title="Kids",Disney XD (576p)
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" tvg-country="POALND",Disney XD (576p)
 http://178.219.128.68:64888/DISNXD
 
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" tvg-country="POALND" group-title="Kids",Nick Jr. Poland (576i)
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" tvg-country="POALND",Nick Jr. Poland (576i)
 http://178.219.128.68:64888/NICKJR
 
-#EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-country="POALND" group-title="Music",4FUN TV (576p)
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-country="POALND",4FUN TV (576p)
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 # GERMANY
-#EXTINF:-1 tvg-id="Pro 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png" tvg-country="GERMANY" group-title="Entertainment",Pro 7 HD
+#EXTINF:-1 tvg-id="Pro 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png" tvg-country="GERMANY" ,Pro 7 HD
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/rQ5T0yY_5AlCgARhkNT0Qkw8FpV-nEV6z8JbUlE5ZWC4X3BGIWISHAbl6PZVUE1JDn8m6UFaSdCoGOA2J_36eGGsHzTxFUDA3GaAZpiLRxUSn2qr388zr458uEz2sieJRuauskU5ARiFIjdO6QK9wonpVVvUwB4_l5hPS3JeQcKhugiJTndYyjPbsiehL8kp/hls/index.m3u8
