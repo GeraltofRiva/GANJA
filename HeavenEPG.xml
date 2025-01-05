@@ -26,6 +26,12 @@
     <url>http://178.219.128.68:64888/DISNXD</url>
   </channel>
 
+    <channel id="CARTOONNETWORK.PL">
+    <display-name lang="en">Disney XD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" />
+    <url>https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/ohR4VsANrvcbkkOAZhGesqJh39UiTSFKc994oOWd1ZvzQuk9RvUxOAHuMPCYVEhf6OmZtn_EksuFi5VlVI_8U288MC6Z7D0d9QuEDVblklI7jPwPlPjYXgXL1Wg6sEay6ozG4hXwMlMmiWgTS4p7CG8rKYCxOzVrqbcF5dEtDacWQSVReO9RBaXbmw71Amu6/hls/index.m3u8</url>
+  </channel>
+
   <channel id="NICKJR.PL">
     <display-name lang="en">Nick Jr. Poland</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" />
