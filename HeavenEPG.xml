@@ -26,10 +26,16 @@
     <url>http://178.219.128.68:64888/DISNXD</url>
   </channel>
 
-    <channel id="CARTOONNETWORK.PL">
-    <display-name lang="en">Disney XD</display-name>
+  <channel id="CARTOONNETWORK.PL">
+    <display-name lang="en">Cartoon Network</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" />
     <url>https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/diwZu-hRF78YvMueDP2VATUv4N66VWDemNvzSsx0iOZxILAV3844PNmPVV64jIwZcUTBfJGAzzFhni7anwiABSucAUfyFEINvyYPO4uJgUsbm8LPEpb3VX2VPDheph2znW64VOaE5EpGIgsjb_9K2UuOt_os7cqghfTaqPhdmVw/hls/index.m3u8</url>
+  </channel>
+
+    <channel id="HBO2.PL">
+    <display-name lang="en">Hbo2</display-name>
+    <icon src="https://ibb.co/YNRj0LD" />
+    <url>https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/vSCCqRtx-OntbUryLRwm1ZQEohqKdFaoPjQv7KgbHnOyCDsq5S52R_ZpZGC7gG4FibZEzkOxVvlMfBBlOgCAPA4RhNXTTyWXuM9ar-2X5vcNttp2WBQ_fXCOxFX4pqv8KYKtCJDEZ25xPXauyfgz_rNx1qqhphac950RSCNgr8tCHt8t7TduF-zI1lOfxE-T/hls/index.m3u8</url>
   </channel>
 
   <channel id="NICKJR.PL">
