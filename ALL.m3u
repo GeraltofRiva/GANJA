@@ -28,6 +28,9 @@ http://178.219.128.68:64888/DISNXD
 #EXTINF:-1 tvg-id="CARTOON NETWORK HD |D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="POLAND",CARTOON NETWORK HD |D
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/diwZu-hRF78YvMueDP2VATUv4N66VWDemNvzSsx0iOZxILAV3844PNmPVV64jIwZcUTBfJGAzzFhni7anwiABSucAUfyFEINvyYPO4uJgUsbm8LPEpb3VX2VPDheph2znW64VOaE5EpGIgsjb_9K2UuOt_os7cqghfTaqPhdmVw/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="CARTOON NETWORK |E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="POLAND",CARTOON NETWORK |E
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/6-dkMZ3StwxGoPLs0wZ7wB3kuOqmTNtjLb-0n0zQyK45EeqEnfqHwOvX_9ydSvamhcR8NckyfWDEjlFrPJ0WxUYBufsYj3rnaQZ7K2l08trCk3zOj7eyprxUh1u5hNXUDGwUtBIBpMb4BEw74fOWA0VvIiPTFnlyIt_sREnLlHaP_vssluWAU23OtSXsznS4/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="POLAND",NICK JR
 http://178.219.128.68:64888/NICKJR
 
