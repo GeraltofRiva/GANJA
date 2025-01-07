@@ -1,48 +1,54 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 
-# POLAND
-#EXTINF:-1 tvg-id="POLSAT" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="POLAND",POLSAT
+# PL
+#EXTINF:-1 tvg-id="POLSAT" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",POLSAT
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
-#EXTINF:-1 tvg-id="TVN TURBO HD" tvg-logo="https://imgbin.com/png/F6w4JA8A/tvn-turbo-logo-scripps-networks-interactive-television-png" group-title="POLAND",TVN TURBO HD
+#EXTINF:-1 tvg-id="TVN TURBO HD" tvg-logo="https://imgbin.com/png/F6w4JA8A/tvn-turbo-logo-scripps-networks-interactive-television-png" group-title="PL",TVN TURBO HD
 https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/mW0qeXW5WkAQPA0Avz4MhHXopT3LV33cOv1DcQ83hLIDcemTKHuN4r6KLSeI2fW73UlrYN24QbpY-xGuThJX_ljIKHPVjEsxPHI5Fkj3_SEyyHKYx2_28ufTtR1Ljb_UHSKlK8jU316LZcqkhEVTtln113LjdFVjPpY2K6Yhj6352bl7cQNmbNP2q1oYb0-g/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="TVP 1 HD" tvg-logo="https://s.tvp.pl/images/images/a/8/9/uid_a89e60e8041e4e4bb367c0e091759d69_width_1200_play_0_pos_0_gs_0_height_630.png" group-title="POLAND",TVP 1 HD
+#EXTINF:-1 tvg-id="TVP 1 HD" tvg-logo="https://s.tvp.pl/images/images/a/8/9/uid_a89e60e8041e4e4bb367c0e091759d69_width_1200_play_0_pos_0_gs_0_height_630.png" group-title="PL",TVP 1 HD
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/t2jXEJwpDBmLDHKpXeSRJpAvu1XlIDfwrhGgQh3Ab2PGlmp2-W52u6NoFPA6j00ftziTHYMS_hdGLRpnJxezdvA95-biZPPG_2WFr7DhlNzGFXjREunptC2VH_zU8_1TXBMcZOpvchHwDuDzYgaQS8rvNIbHjGbYG0UYRnGequ8/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="CANAL SPORT 3 HD" tvg-logo="https://medias.lenodal.com/medias/photos/original/2015/cplussport3-jingle-2015.jpg" group-title="POLAND",CANAL SPORT 3 HD
+#EXTINF:-1 tvg-id="CANAL SPORT 3 HD" tvg-logo="https://medias.lenodal.com/medias/photos/original/2015/cplussport3-jingle-2015.jpg" group-title="PL",CANAL SPORT 3 HD
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/DN13SIcFF91x0pLYEKWgEK3Q6MJMaXgXGhwlpdz2YRdPEsEtRdZ_TpKhlH3J9V2hHBwu14aTgB50kJ6wNaq4kimMkyQxjMFuwa0PfZwBhoAc0kbqwy8sfI8HcLA3DFhSXsdsAorPO61wEeipjwziiLnu_AtPtnUt5eqomqGFFicop-AT0E-JOAYu0MOwvdTy/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="TVP 2 HD" tvg-logo="https://i.ytimg.com/vi/gUnBwaZHGMw/sddefault.jpg" group-title="POLAND",TVP 2 HD
+#EXTINF:-1 tvg-id="TVP 2 HD" tvg-logo="https://i.ytimg.com/vi/gUnBwaZHGMw/sddefault.jpg" group-title="PL",TVP 2 HD
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/RR5R46WBQyJTl7pjF85X-Kd11kNh5e1j19xDYuZg-jOfnnvuFyw0eBNEy9ewE_rbukf6feR_-MMaHnMBui01zhfeETtCKwrB-FiVTtPsdJaOiUCtlqUdXaH8lFrirnyhnBcHWnpCvpHmIJgyFT45exbSUpt72XlD4Y2ZKOIuATS3Ork1m_9g2MhaYkk8psnt/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="POLAND",DISNEYCHANNEL
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="PL",DISNEYCHANNEL
 http://109.233.89.170/Disney_Channel/mono.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="POLAND",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="PL",DISNEY JUNIOR
 http://109.233.89.166/Disney_Junior/mono.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="POLAND",DISNEY XD
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="PL",DISNEY XD
 http://178.219.128.68:64888/DISNXD
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK HD |D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="POLAND",CARTOON NETWORK HD |D
+#EXTINF:-1 tvg-id="CARTOON NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="PL",CARTOON NETWORK FHD
+http://130352074261824530.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/824530.ts
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD |D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="PL",CARTOON NETWORK HD |D
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/diwZu-hRF78YvMueDP2VATUv4N66VWDemNvzSsx0iOZxILAV3844PNmPVV64jIwZcUTBfJGAzzFhni7anwiABSucAUfyFEINvyYPO4uJgUsbm8LPEpb3VX2VPDheph2znW64VOaE5EpGIgsjb_9K2UuOt_os7cqghfTaqPhdmVw/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK |E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="POLAND",CARTOON NETWORK |E
+#EXTINF:-1 tvg-id="CARTOON NETWORK |E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="PL",CARTOON NETWORK |E
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/6-dkMZ3StwxGoPLs0wZ7wB3kuOqmTNtjLb-0n0zQyK45EeqEnfqHwOvX_9ydSvamhcR8NckyfWDEjlFrPJ0WxUYBufsYj3rnaQZ7K2l08trCk3zOj7eyprxUh1u5hNXUDGwUtBIBpMb4BEw74fOWA0VvIiPTFnlyIt_sREnLlHaP_vssluWAU23OtSXsznS4/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="POLAND",NICK JR
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="PL",NICK JR
 http://178.219.128.68:64888/NICKJR
 
-#EXTINF:-1 tvg-id="HBO2 HD" tvg-logo="https://i.postimg.cc/zGfQkqt8/HBO-2-2014.png" group-title="POLAND",HBO2 HD
+#EXTINF:-1 tvg-id="HBO2 HD" tvg-logo="https://i.postimg.cc/zGfQkqt8/HBO-2-2014.png" group-title="PL",HBO2 HD
 https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/vSCCqRtx-OntbUryLRwm1ZQEohqKdFaoPjQv7KgbHnOyCDsq5S52R_ZpZGC7gG4FibZEzkOxVvlMfBBlOgCAPA4RhNXTTyWXuM9ar-2X5vcNttp2WBQ_fXCOxFX4pqv8KYKtCJDEZ25xPXauyfgz_rNx1qqhphac950RSCNgr8tCHt8t7TduF-zI1lOfxE-T/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="4FUN TV" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="POLAND", 4FUN TV
+#EXTINF:-1 tvg-id="4FUN TV" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="PL", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 # GERMANY
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png" group-title="GERMANY",COMEDY CENTRAL |D
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/0jFLCQCnk2VsKMCbwfeB0KcNI_DX74_cbCx48-Q-VGQ2DAeIZhI1fhNkckUxylG4BkBmuDKz_m9tB_MOWQBc_sWznXL_wBoZT5tqUQva4u6VadRw7Tk4nV3UCZtH_oYLmChhP2I65oMweX4WnxgXqQFc53qmkPIe_u7vEQg98uk/hls/index.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png" group-title="DE",COMEDY CENTRAL
+http://lunar.pm:8080/Marsherri/aZHue1/121761
 
-#EXTINF:-1 tvg-id="NITRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/220px-Nitro_Logo.svg.png" group-title="GERMANY",NITRO |H
+#EXTINF:-1 tvg-id="NITRO" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/nitro.png" group-title="DE",NITRO |H
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/qfDTPrkwiuXav3467SbgsrPx7HuvjG2uJViQmQ1-yCgOmvuSXLQtv2cDNN7DtCWRiW24vLB8DQdOBOgaRXhfRULDlcTjLgraIUJyn94B__vrrzYkQqaSyW_UUbkmIeET5E49rUip9iElOVItKYh5O2oxg9sRVf-V1r_HnMDbQM8/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL ZWEI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="DE",RTL ZWEI FHD
+http://1303520742611015258.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1015258.ts
