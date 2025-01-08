@@ -60,5 +60,6 @@ http://1303520742611016429.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1016429.ts
 #MOVIES
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=426x240
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0824a6273eca0146776f4c2ed02272cd9746453f7b4d5cf773a39e9dec2cb25f._SX342_.jpg" group-title="Movies", John Wick
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0824a6273eca0146776f4c2ed02272cd9746453f7b4d5cf773a39e9dec2cb25f._SX342_.jpg" group-title="Movies", genre="Action" year="2014" author="
+Derek Kolstad" actios="Keanu Reeves, Michael Nyqvist, Alfie Allen" rating="7.4/10" description="Ein Ex-Killer kommt aus dem Vorruhestand, um die Gangster aufzuspüren, die seinen Hund töteten und alles von ihm nahmen." John Wick 
 https://watch.gxplayer.xyz/stream/dG9LcHpRSUp1SUFRS2tlNWlhRmJoNENLTC84T0swTWQ3YzJXOVRnYTZ3ekZ2K0FxU2JWSkZoa09tTmxCZ2lkOXB3TWRvUDRNL0dYZ1kvWkVXNGhzL2c9PQ==&id=11407
