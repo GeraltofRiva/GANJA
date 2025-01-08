@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",POLSAT
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIUM FHD" tvg-logo="https://asiagrandiptv.us/logo/filmboxpremium.png" group-title="PL",FILMBOX PREMIUM FHD
+http://130352074261309907.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/309907.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgbin.com/png/F6w4JA8A/tvn-turbo-logo-scripps-networks-interactive-television-png" group-title="PL",TVN TURBO FHD
 http://130352074261797820.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/797820.ts
 
@@ -44,5 +47,5 @@ https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/qfDTPrkwiuXav3467S
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="DE",RTL ZWEI FHD
 http://1303520742611015258.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1015258.ts
 
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="DE",SKY SPORT GOLF FHD
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="SKY SPORT GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1024px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="DE",SKY SPORT GOLF FHD
 http://1303520742611016429.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1016429.ts
