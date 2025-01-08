@@ -1,6 +1,6 @@
-#EXTM3U tvg-url="https://xmltv.info/de/epg.xml"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",POLSAT
+#EXTINF:-1 tvg-id="" tvg-url="https://epg.pw/api/epg.xml?channel_id=6962" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",POLSAT
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIUM FHD" tvg-logo="https://asiagrandiptv.us/logo/filmboxpremium.png" group-title="PL",FILMBOX PREMIUM FHD
@@ -51,7 +51,7 @@ http://130352074261997890.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/997890.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/nitro.png" group-title="DE",NITRO |H
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/qfDTPrkwiuXav3467SbgsrPx7HuvjG2uJViQmQ1-yCgOmvuSXLQtv2cDNN7DtCWRiW24vLB8DQdOBOgaRXhfRULDlcTjLgraIUJyn94B__vrrzYkQqaSyW_UUbkmIeET5E49rUip9iElOVItKYh5O2oxg9sRVf-V1r_HnMDbQM8/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="DE",DE: RTL ZWEI
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="DE",RTL ZWEI FHD
 http://1303520742611015258.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1015258.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1024px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="DE",SKY SPORT GOLF FHD
