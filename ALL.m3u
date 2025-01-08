@@ -34,7 +34,7 @@ https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/vSCCqRtx-OntbUryLR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="PL", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTM3U tvg-url="https://xmltv.info/de/epg.xml"
+#EXTM3U x-tvg-url="https://xmltv.info/de/epg.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="DE",CARTOON NETWORK HD
 http://130352074261885378.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/885378.ts
@@ -51,9 +51,9 @@ http://130352074261997890.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/997890.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/nitro.png" group-title="DE",NITRO |H
 https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/qfDTPrkwiuXav3467SbgsrPx7HuvjG2uJViQmQ1-yCgOmvuSXLQtv2cDNN7DtCWRiW24vLB8DQdOBOgaRXhfRULDlcTjLgraIUJyn94B__vrrzYkQqaSyW_UUbkmIeET5E49rUip9iElOVItKYh5O2oxg9sRVf-V1r_HnMDbQM8/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="DE",RTL ZWEI FHD
+#EXTINF:-1 tvg-id="DE: RTL ZWEI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="DE",RTL ZWEI FHD
 http://1303520742611015258.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1015258.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1024px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="DE",SKY SPORT GOLF FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1024px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="DE",SKY SPORT GOLF FHD
 http://1303520742611016429.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1016429.ts
 
