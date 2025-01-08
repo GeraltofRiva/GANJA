@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="polsat" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",POLSAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",Polsat
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://asiagrandiptv.us/logo/filmboxpremium.png" group-title="PL",FILMBOX PREMIUM FHD
