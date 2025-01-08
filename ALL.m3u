@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+#EXTM3U tvg-url="https://xmltv.info/de/epg.xml"
 
 # PL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",POLSAT
@@ -22,7 +22,7 @@ http://178.219.128.68:64888/DISNXD
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="PL",CARTOON NETWORK FHD
 http://130352074261824530.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/824530.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="PL",CARTOON NETWORK HD |D
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" tvg-epgurl="" group-title="PL",CARTOON NETWORK HD |D
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/diwZu-hRF78YvMueDP2VATUv4N66VWDemNvzSsx0iOZxILAV3844PNmPVV64jIwZcUTBfJGAzzFhni7anwiABSucAUfyFEINvyYPO4uJgUsbm8LPEpb3VX2VPDheph2znW64VOaE5EpGIgsjb_9K2UuOt_os7cqghfTaqPhdmVw/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="PL",CARTOON NETWORK |E
@@ -38,6 +38,9 @@ https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/vSCCqRtx-OntbUryLR
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 # GERMANY
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/300px-Super_RTL_Logo_orange_2019.svg.png" group-title="DE",SUPER RTL HD
+http://130352074261885378.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/885378.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/300px-Super_RTL_Logo_orange_2019.svg.png" group-title="DE",SUPER RTL HD
 http://1303520742611011896.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1011896.ts
