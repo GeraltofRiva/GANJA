@@ -1,84 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <tv>
-  <!-- Music Channels -->
-  <channel id="4FUNTV.PL">
-    <display-name lang="en">4FUN TV</display-name>
-    <icon src="https://i.imgur.com/rI1wo2l.png" />
-    <url>https://stream.4fun.tv:8888/hls/4f_high/index.m3u8</url>
-  </channel>
-
-  <!-- Kids Channels -->
-  <channel id="DISNEYCHANNEL.PL">
-    <display-name lang="en">Disney Channel</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" />
-    <url>http://109.233.89.170/Disney_Channel/mono.m3u8</url>
-  </channel>
-
-  <channel id="DISNEYJUNIOR.PL">
-    <display-name lang="en">Disney Junior</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" />
-    <url>http://109.233.89.166/Disney_Junior/mono.m3u8</url>
-  </channel>
-
-  <channel id="DISNEYXD.PL">
-    <display-name lang="en">Disney XD</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" />
-    <url>http://178.219.128.68:64888/DISNXD</url>
-  </channel>
-
-  <channel id="CARTOONNETWORK.PL">
-    <display-name lang="en">Cartoon Network</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" />
-    <url>https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/diwZu-hRF78YvMueDP2VATUv4N66VWDemNvzSsx0iOZxILAV3844PNmPVV64jIwZcUTBfJGAzzFhni7anwiABSucAUfyFEINvyYPO4uJgUsbm8LPEpb3VX2VPDheph2znW64VOaE5EpGIgsjb_9K2UuOt_os7cqghfTaqPhdmVw/hls/index.m3u8</url>
-  </channel>
-
-  <channel id="CARTOONNETWORK.PL">
-    <display-name lang="en">Cartoon Network</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" />
-    <url>https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/diwZu-hRF78YvMueDP2VATUv4N66VWDemNvzSsx0iOZxILAV3844PNmPVV64jIwZcUTBfJGAzzFhni7anwiABSucAUfyFEINvyYPO4uJgUsbm8LPEpb3VX2VPDheph2znW64VOaE5EpGIgsjb_9K2UuOt_os7cqghfTaqPhdmVw/hls/index.m3u8</url>
-  </channel>
-
-  <channel id="CARTOONNETWORK.PL">
-    <display-name lang="en">Cartoon Network</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" />
-    <url>https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/6-dkMZ3StwxGoPLs0wZ7wB3kuOqmTNtjLb-0n0zQyK45EeqEnfqHwOvX_9ydSvamhcR8NckyfWDEjlFrPJ0WxUYBufsYj3rnaQZ7K2l08trCk3zOj7eyprxUh1u5hNXUDGwUtBIBpMb4BEw74fOWA0VvIiPTFnlyIt_sREnLlHaP_vssluWAU23OtSXsznS4/hls/index.m3u8</url>
-  </channel>
-
-    <channel id="HBO2.PL">
-    <display-name lang="en">Hbo2</display-name>
-    <icon src="https://ibb.co/YNRj0LD" />
-    <url>https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/vSCCqRtx-OntbUryLRwm1ZQEohqKdFaoPjQv7KgbHnOyCDsq5S52R_ZpZGC7gG4FibZEzkOxVvlMfBBlOgCAPA4RhNXTTyWXuM9ar-2X5vcNttp2WBQ_fXCOxFX4pqv8KYKtCJDEZ25xPXauyfgz_rNx1qqhphac950RSCNgr8tCHt8t7TduF-zI1lOfxE-T/hls/index.m3u8</url>
-  </channel>
-
-  <channel id="NICKJR.PL">
-    <display-name lang="en">Nick Jr. Poland</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" />
-    <url>http://178.219.128.68:64888/NICKJR</url>
-  </channel>
-
   <!-- Entertainment Channels -->
-  <channel id="6962">
+  <channel id="polsat">
     <display-name lang="en">Polsat</display-name>
-    <icon src="https://i.imgur.com/xff6zGN.png" />
+    <icon src="https://i.imgur.com/xff6zGN.png"/>
     <url>https://epg.pw/api/epg.xml?channel_id=6962</url>
   </channel>
-
-  <channel id="COMEDY CENTRAL">
-    <display-name lang="en">Comedy Central</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png" />
-    <url>https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/0jFLCQCnk2VsKMCbwfeB0KcNI_DX74_cbCx48-Q-VGQ2DAeIZhI1fhNkckUxylG4BkBmuDKz_m9tB_MOWQBc_sWznXL_wBoZT5tqUQva4u6VadRw7Tk4nV3UCZtH_oYLmChhP2I65oMweX4WnxgXqQFc53qmkPIe_u7vEQg98uk/hls/index.m3u8</url>
-  </channel>
-
-  <channel id="NITRO">
-    <display-name lang="en">Nitro</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/220px-Nitro_Logo.svg.png" />
-    <url>https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/qfDTPrkwiuXav3467SbgsrPx7HuvjG2uJViQmQ1-yCgOmvuSXLQtv2cDNN7DtCWRiW24vLB8DQdOBOgaRXhfRULDlcTjLgraIUJyn94B__vrrzYkQqaSyW_UUbkmIeET5E49rUip9iElOVItKYh5O2oxg9sRVf-V1r_HnMDbQM8/hls/index.m3u8</url>
-  </channel>
-
-  <channel id="NITRO">
-    <display-name lang="en">Nitro</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" />
-    <url>https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/qfDTPrkwiuXav3467SbgsrPx7HuvjG2uJViQmQ1-yCgOmvuSXLQtv2cDNN7DtCWRiW24vLB8DQdOBOgaRXhfRULDlcTjLgraIUJyn94B__vrrzYkQqaSyW_UUbkmIeET5E49rUip9iElOVItKYh5O2oxg9sRVf-V1r_HnMDbQM8/hls/index.m3u8</url>
-  </channel>
-
+  <programme start="20241228100000" stop="20241228135500" channel="polsat">
+    <title lang="de">polsat</title>
+  </programme>
 </tv>
