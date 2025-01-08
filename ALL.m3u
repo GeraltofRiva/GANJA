@@ -39,6 +39,9 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 # GERMANY
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/300px-Super_RTL_Logo_orange_2019.svg.png" group-title="DE",SUPER RTL HD
+http://1303520742611011896.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1011896.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/langfr-150px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="DE",NICKELODEON SD
 http://1303520742611008484.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1008484.ts
 
