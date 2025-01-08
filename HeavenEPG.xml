@@ -57,10 +57,10 @@
   </channel>
 
   <!-- Entertainment Channels -->
-  <channel id="POLSAT.PL">
+  <channel id="6962">
     <display-name lang="en">Polsat</display-name>
     <icon src="https://i.imgur.com/xff6zGN.png" />
-    <url>https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd</url>
+    <url>https://epg.pw/api/epg.xml?channel_id=6962</url>
   </channel>
 
   <channel id="COMEDY CENTRAL">
