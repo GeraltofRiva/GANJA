@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/GeraltofRiva/GANJA/blob/main/HeavenEPG.xml"
 
 #EXTINF:-1 tvg-id="polsat" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",POLSAT
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
