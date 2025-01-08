@@ -38,6 +38,10 @@ https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/vSCCqRtx-OntbUryLR
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 # GERMANY
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/langfr-150px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="DE",NICKELODEON SD
+http://1303520742611008484.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1008484.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png" group-title="DE",COMEDY CENTRAL
 http://130352074261997890.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/997890.ts
 
@@ -47,5 +51,6 @@ https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/qfDTPrkwiuXav3467S
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="DE",RTL ZWEI FHD
 http://1303520742611015258.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1015258.ts
 
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="SKY SPORT GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1024px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="DE",SKY SPORT GOLF FHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1024px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="DE",SKY SPORT GOLF FHD
 http://1303520742611016429.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1016429.ts
+
