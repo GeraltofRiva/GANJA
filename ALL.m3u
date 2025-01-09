@@ -9,13 +9,13 @@ http://130352074261748361.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/748361.ts
 #EXTINF:-1 tvg-id="FilmBox.Premium.HD.pl" tvg-name="FilmBox Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FilmBox_Premium_HD_logo.png/240px-FilmBox_Premium_HD_logo.png" group-title="PL",Filmbox Premium FHD
 http://130352074261309907.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/309907.ts
 
-#EXTINF:-1 tvg-id="TVN.Turbo.HD.pl" tvg-name="TVN Turbo HD" tvg-logo="https://en.wikipedia.org/wiki/File:Logo_TVN_Turbo_2009.svg" group-title="PL",TVN TURBO FHD
+#EXTINF:-1 tvg-id="TVN.Turbo.HD.pl" tvg-name="TVN Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVN_turbo.svg/240px-TVN_turbo.svg.png" group-title="PL",TVN TURBO FHD
 http://130352074261802278.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/802278.ts
 
 #EXTINF:-1 tvg-id="Disney.Channel.pl" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="PL",Disney Channel
 http://109.233.89.170/Disney_Channel/mono.m3u8
 
-#EXTINF:-1 tvg-id="Disney.Junior.pl" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="PL",Disney Junior
+#EXTINF:-1 tvg-id="Disney.Junior.pl" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/240px-Disney_Jr._2024.svg.png" group-title="PL",Disney Junior
 http://109.233.89.166/Disney_Junior/mono.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.pl" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="PL",Disney XD
