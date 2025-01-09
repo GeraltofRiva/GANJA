@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="CI.Polsat.HD.pl" tvg-name="CI Polsat HD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="PL",Polsat HD
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
+#EXTINF:-1 tvg-id="Polsat.Film.pl" tvg-name="Polsat Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polsat_Film_2021_gradient.svg/180px-Polsat_Film_2021_gradient.svg.png" group-title="PL",Polsat Film
+http://130352074261748361.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/748361.ts
+
 #EXTINF:-1 tvg-id="FilmBox.Premium.HD.pl" tvg-name="FilmBox Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FilmBox_Premium_HD_logo.png/240px-FilmBox_Premium_HD_logo.png" group-title="PL",Filmbox Premium FHD
 http://130352074261309907.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/309907.ts
 
@@ -26,6 +29,9 @@ http://178.219.128.68:64888/NICKJR
 
 #EXTINF:-1 tvg-id="4FUN.TV.pl" tvg-name=">4FUN.TV" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="PL", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-id="Eska.TV.HD.pl" tvg-name=">Eska TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/EskaTV_logo_2011.png/240px-EskaTV_logo_2011.png" group-title="PL", ESKA TV FHD
+http://130352074261856629.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/856629.ts
 
 #GERMAN
 
