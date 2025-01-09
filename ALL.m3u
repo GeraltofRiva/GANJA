@@ -36,7 +36,9 @@ https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/vSCCqRtx-OntbUryLR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="PL", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="DE", Cartoon Network HD
+#GERMAN
+
+#EXTINF:-1 tvg-id="Cartoon.Network.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="DE", Cartoon Network HD
 http://130352074261885378.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/885378.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/300px-Super_RTL_Logo_orange_2019.svg.png" group-title="DE",SUPER RTL HD
