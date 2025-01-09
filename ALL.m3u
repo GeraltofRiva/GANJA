@@ -59,9 +59,6 @@ http://1303520742611016429.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1016429.ts
 
 #MOVIES
 #EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-11/1637157287-116714699.jpg" group-title="Movies", John Wick
-# Description: John Wick is forced to honor a debt to a ruthless crime lord, and he travels to Rome to face off against some of the world's deadliest killers.
-# Director: Chad Stahelski
-# Starring: Keanu Reeves, Riccardo Scamarcio, Ian McShane
 https://hfs292.serversicuro.cc/hls/dnzpfwhf23g4a3gyvatx73bnqfxlghfxsiufvt7d4vhfvigzst2mxqnfxwpq/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-10/1634830020-328356180.jpg" group-title="Movies", John Wick 2
@@ -72,3 +69,18 @@ https://hfs293.serversicuro.cc/hls/,dnzpfkxf23g4a3gyvamx7mbozp3tickcfqoojp7yk6cp
 
 #EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-09/1663084761-916747071.jpg" group-title="Movies", John Wick 4
 https://hfs292.serversicuro.cc/hls/dnzpfhhf23g4a3gyvdmh5n3xyvd6iw4vcwe6srybi6nipjlcbxbv4txlp4qq/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-12/1671168228-474348370.jpg" group-title="Movies", Ip Man
+https://hfs300.serversicuro.cc/hls/,dnzpfsia3tg4a3gyvdkx5kzpsc3mbb4x4vzjcpxbi4fkzah2ddgwhqcti72a,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-03/1647170857-936855188.jpg" group-title="Movies", Ip Man 2
+https://hfs298.serversicuro.cc/hls/,dnzpekee3lg4a3gyva2h7pdxqdkuue4hp7sa3wu4sejkfc4u367kuxm7w4qq,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-05/1653529689-998985075.jpg" group-title="Movies", Ip Man 3
+https://watch.gxplayer.xyz/stream/MG00U0ZPRjQwdmU2ckNEdWpzQ1l1L21wcDZ0S1VnRERZU1BzTnRMbi9VQzNUWURmajlraVJYUzNSd1Y4Qlp6d083UVEzSjVmQi90dVM5OGdmWExQZ2c9PQ==&id=11892
+
+#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-10/1635222283-567277962.jpg" group-title="Movies", Ip Man 4
+https://hfs300.serversicuro.cc/hls/,dnzpfm7t3hg4a3gyvamx73rxt5fkv7irphabjibhdrt5k72c4jeysiamguhq,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://megakino.media/uploads/posts/2022-05/b1780x1450.jpg" group-title="Movies", Master Z: The Ip Man Legacy
+https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/07804/3qwhhvl7238k_,n,.urlset/index-v1-a1.m3u8?t=tkLijtZQ1GDoHI5iPqbtl06SA-iahSgS1Wl3nNTOwyc&s=1736386988&e=14400&f=39092610&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=46.114&sp=2500&asn=6805&q=n
