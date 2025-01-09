@@ -58,8 +58,8 @@ http://1303520742611015258.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1015258.ts
 http://1303520742611016429.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1016429.ts
 
 #MOVIES
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=426x240
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1456958,RESOLUTION=1280x720,FRAME-RATE=23.980,CODECS="avc1.4d4028,mp4a.40.2",VIDEO-RANGE=SDR
+index-v1-a1.m3u8?t=6tjwVLeCYVowVOrG0x12_mOmxMiaDnlIDgqVQHPgxlk&s=1736380786&e=14400&f=60089054&node=CcG+qOjROgZUTd3yvKUVtqHPJW1rxtjJmbg4P9ekU20=&i=46.114&sp=2500&asn=6805&q=n
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0824a6273eca0146776f4c2ed02272cd9746453f7b4d5cf773a39e9dec2cb25f._SX342_.jpg" group-title="Movies", genre="Action" year="2014" author="
 Derek Kolstad" actios="Keanu Reeves, Michael Nyqvist, Alfie Allen" rating="7.4/10" description="Ein Ex-Killer kommt aus dem Vorruhestand, um die Gangster aufzuspüren, die seinen Hund töteten und alles von ihm nahmen." John Wick 
-https://watch.gxplayer.xyz/stream/dG9LcHpRSUp1SUFRS2tlNWlhRmJoNENLTC84T0swTWQ3YzJXOVRnYTZ3ekZ2K0FxU2JWSkZoa09tTmxCZ2lkOXB3TWRvUDRNL0dYZ1kvWkVXNGhzL2c9PQ==&id=11407
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=94913,RESOLUTION=1280x720,CODECS="avc1.4d4028",URI="iframes-v1-a1.m3u8?t=6tjwVLeCYVowVOrG0x12_mOmxMiaDnlIDgqVQHPgxlk&s=1736380786&e=14400&f=60089054&node=CcG+qOjROgZUTd3yvKUVtqHPJW1rxtjJmbg4P9ekU20=&i=46.114&sp=2500&asn=6805&q=n",VIDEO-RANGE=SDR
