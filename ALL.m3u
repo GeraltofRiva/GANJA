@@ -61,52 +61,9 @@ http://1303520742611015258.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1015258.ts
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.de" tvg-name="Sky Sport Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1024px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="DE",Sky Sport Golf FHD
 http://1303520742611016429.ofdgh12.xyz:80/play/wa826004/nyEyTVsA3xA/1016429.ts
 
-#MOVIES
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-11/1637157287-116714699.jpg" group-title="Movies", John Wick
-#YEAR:2014
-https://hfs292.serversicuro.cc/hls/,dnzpfwhf23g4a3gyvatx73bnqfxlghfxsiufvt7d4vhfvigzs3mmgw4kr52a,.urlset/master.m3u8
+#SERIEN
+#EXTINF:-1 type=video" tvg-logo="https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" group-title="Dexter S01" Dexter – Pilot
+https://hfs279.serversicuro.cc/hls/dnzpe3nd2xg4a3gyvbdh5ljnq63syn454unjz7vqzhzzyjc5z6bievayxpma/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-10/1634830020-328356180.jpg" group-title="Movies", John Wick 2
-https://hfs289.serversicuro.cc/hls/,dnzpechf23g4a3gyvajh7kdvyxaek2gz64luznyfs3x4zskrfutdqvaocvkq,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-10/1635656308-133634199.jpg" group-title="Movies", John Wick 3
-https://hfs293.serversicuro.cc/hls/,dnzpfkxf23g4a3gyvamx7mbozp3tickcfqoojp7yk6cphz5kgyc6xinke2na,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-09/1663084761-916747071.jpg" group-title="Movies", John Wick 4
-https://hfs292.serversicuro.cc/hls/,dnzpfhhf23g4a3gyvdmh5n3xyvd6iw4vcwe6srybi6nipjlcb7xz36ippuya,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-12/1671168228-474348370.jpg" group-title="Movies", Ip Man
-https://hfs300.serversicuro.cc/hls/,dnzpfsia3tg4a3gyvdkx5kzpsc3mbb4x4vzjcpxbi4fkzah2dlqrssyoky5a,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-03/1647170857-936855188.jpg" group-title="Movies", Ip Man 2
-https://hfs298.serversicuro.cc/hls/,dnzpekee3lg4a3gyva2h7pdxqdkuue4hp7sa3wu4sejkfc4u3wjihitr42uq,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-05/1653529689-998985075.jpg" group-title="Movies", Ip Man 3
-https://watch.gxplayer.xyz/stream/MG00U0ZPRjQwdmU2ckNEdWpzQ1l1L21wcDZ0S1VnRERZU1BzTnRMbi9VQzNUWURmajlraVJYUzNSd1Y4Qlp6d083UVEzSjVmQi90dVM5OGdmWExQZ2c9PQ==&id=11892
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-10/1635222283-567277962.jpg" group-title="Movies", Ip Man 4
-https://hfs300.serversicuro.cc/hls/,dnzpfm7t3hg4a3gyvamx73rxt5fkv7irphabjibhdrt5k72c4jeysiamguhq,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://megakino.media/uploads/posts/2022-05/b1780x1450.jpg" group-title="Movies", Master Z: The Ip Man Legacy
-https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/07804/3qwhhvl7238k_,n,.urlset/index-v1-a1.m3u8?t=tkLijtZQ1GDoHI5iPqbtl06SA-iahSgS1Wl3nNTOwyc&s=1736386988&e=14400&f=39092610&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=46.114&sp=2500&asn=6805&q=n
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-11/1638147963-255865255.jpg" group-title="Movies", Transformers
-https://hfs289.serversicuro.cc/hls/dnzpogfp3hg4a3gyvash7lbrtxijqarsp4azug5vpax2owxskiilwjgeexla/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-04/1649491005-270305598.jpg" group-title="Movies", Transformers - Die Rache
-https://hfs302.serversicuro.cc/hls/dnzpf6pf3tg4a3gyvdax5pzjtk3rlwtszcwzw7t7edoevz7mldemr6xsdv5a/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2022-03/1646216553-844746515.jpg" group-title="Movies", Transformers 3: Die dunkle Seite des Mondes
-https://hfs293.serversicuro.cc/hls/,dnzpeyez3lg4a3gyva3x7ibyrga4cp57w4vcxlw6u5om45srxx574eu4pqea,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-11/1637252259-140209240.jpg" group-title="Movies", Transformers: Ära des Untergangs
-https://hfs294.serversicuro.cc/hls/,dnzpfj6e3hg4a3gyvdah72tvrlc73t5hize4klim77roknrcajfknnmzvvtq,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-10/1634777798-736339253.jpg" group-title="Movies", Transformers: The Last Knight
-https://hfs289.serversicuro.cc/hls/,dnzpdth23hg4a3gyvamx7krotwogaqbqffidbbckwcvhqhcd3i7k532tkzga,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2021-11/1635741049-533528673.jpg" group-title="Movies", Bumblebee
-https://hfs302.serversicuro.cc/hls/,dnzpef7j3hg4a3gyvajx7pzszo4glqu22c6qtwidck2r4reziooq645c6fjq,.urlset/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://hdfilme.my/uploads/thumb/300x450-0-80/2023-06/1686226675-437598237.jpg" group-title="Movies", Transformers: Aufstieg der Bestien
-https://hfs302.serversicuro.cc/hls/,dnzpeysh37g4a3gyvdyh5ozeziev6zl5abks75x4sza2n3tw63x2laswwqoq,.urlset/master.m3u8
+#EXTINF:-1 type=video" tvg-logo="https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" group-title="Dexter S01" Eiskalt erwischt
+https://hfs279.serversicuro.cc/hls/dnzpe3vd2xg4a3gyvbdh5ybjsv3ifo6waca6a4oongcdlty6wvjfrngfrjsq/index-v1-a1.m3u8
